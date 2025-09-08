@@ -11,6 +11,7 @@ Kettlebells :D
 
 <img width="822" height="633" alt="image" src="https://github.com/user-attachments/assets/0217d67f-3ae4-4457-958a-b50f36163e7e" />
 
+<img width="1632" height="1356" alt="image" src="https://github.com/user-attachments/assets/1e9239b7-7268-4ad7-ba56-22bd9944a4ac" />
 
 
 <img width="817" height="280" alt="image" src="https://github.com/user-attachments/assets/fa0cef8f-4b4b-4286-aa11-fa3cd68c5f97" />
