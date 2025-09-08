@@ -1,14 +1,5 @@
 Kettle Bells :D 
 
-df1 = spark.read.csv("/Volumes/workspace/default/datajason/001_20250801_221250-3-2min.csv", header=True, inferSchema=True)
-df2 = spark.read.csv("/Volumes/workspace/default/datajason/002_20250802_044544-3-2min.csv", header=True, inferSchema=True)
-df3 = spark.read.csv("/Volumes/workspace/default/datajason/003_20250905_184138-3-2min.csv", header=True, inferSchema=True)
-
-display(df1)
-display(df2)
-display(df3)
-*----*
-
 
 <img width="975" height="357" alt="image" src="https://github.com/user-attachments/assets/24d2735d-97a0-4cc3-b7af-fe63e33325b8" />
 
