@@ -1,4 +1,4 @@
-Kettle Bells :D 
+Kettlebells :D 
 
 
 <img width="975" height="357" alt="image" src="https://github.com/user-attachments/assets/24d2735d-97a0-4cc3-b7af-fe63e33325b8" />
