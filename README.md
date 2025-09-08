@@ -23,3 +23,6 @@ Kettlebells :D
 
 
 <img width="619" height="1158" alt="image" src="https://github.com/user-attachments/assets/34e0cd84-ac82-4a4a-8da2-bb2a390b4e50" />
+
+
+<img width="900" height="955" alt="image" src="https://github.com/user-attachments/assets/c914b341-64a4-4c0c-9051-6a791a447c36" />
